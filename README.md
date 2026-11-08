@@ -4,6 +4,7 @@ Compare the eight MiniMax H3 Spicy video endpoints on Muapi — H3, H3 Max and H
 
 ## Related Projects
 
+- [Spicy AI Video Generator API](https://github.com/Anil-matcha/Spicy-AI-Video-Generator-API) — compare spicy video endpoints across Seedance 2.5/2, Wan 3.0 and MiniMax H3 in one guide.
 - [MuAPI](https://muapi.ai) — Unified API for image, video, and audio generation across hundreds of AI models.
 - [MiniMax H3 API](https://github.com/Anil-matcha/MiniMax-H3-API) — Python SDK for the standard (non-Spicy) MiniMax H3 endpoints.
 - [MiniMax Media API](https://github.com/Anil-matcha/MiniMax-Media-API) — MiniMax video, speech and music endpoints compared on Muapi.
