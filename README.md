@@ -17,7 +17,6 @@ Compare the eight MiniMax H3 Spicy video endpoints on Muapi — H3, H3 Max and H
 - [Muapi API documentation](https://muapi.ai/docs/api-reference)
 - [Video generation docs](https://muapi.ai/docs/video-generation)
 - [Create or manage an API key](https://muapi.ai/access-keys)
-- [Muapi website](https://muapi.ai)
 
 Requests go to `https://api.muapi.ai/api/v1/{endpoint}` with an `x-api-key` header. A submission returns a `request_id`; poll `GET /api/v1/predictions/{request_id}/result` until the task is completed. Generated video URLs are returned in the result.
 
