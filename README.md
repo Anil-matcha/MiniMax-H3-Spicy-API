@@ -2,6 +2,8 @@
 
 Compare the eight MiniMax H3 Spicy video endpoints on Muapi — H3, H3 Max and H3 Max Turbo, each in its relaxed-moderation "Spicy" tier — across text-to-video, image-to-video and reference-to-video. This guide covers Muapi endpoints only; it does not document MiniMax's direct API. Spicy tiers apply relaxed content moderation, but you remain responsible for complying with Muapi's [terms](https://muapi.ai/terms) and applicable law.
 
+> **Uncensored MiniMax H3 API:** This guide documents the H3, H3 Max, and H3 Max Turbo Spicy routes with relaxed content moderation. “Spicy” means lighter automated filtering, not unrestricted generation; MuAPI/provider terms and applicable law still apply.
+
 ## Related Projects
 
 - [Spicy AI Video Generator API](https://github.com/Anil-matcha/Spicy-AI-Video-Generator-API) — compare spicy video endpoints across Seedance 2.5/2, Wan 3.0 and MiniMax H3 in one guide.
