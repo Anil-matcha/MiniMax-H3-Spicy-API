@@ -13,6 +13,7 @@ Compare the eight MiniMax H3 Spicy video endpoints on Muapi — H3, H3 Max and H
 - [Awesome MiniMax H3 prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) — prompt library for MiniMax H3 video.
 - [MiniMax H3 ComfyUI](https://github.com/Anil-matcha/minimax-h3-comfyui) — ComfyUI nodes for MiniMax H3.
 - [AI Video API](https://github.com/Anil-matcha/AI-Video-API) — examples for video-generation APIs.
+- [NSFW-AI-API](https://github.com/Anil-matcha/NSFW-AI-API) — NSFW detection and moderation for text and images, to screen prompts and outputs
 
 ## Overview
 
